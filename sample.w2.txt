@@ -1,3 +1,0 @@
-Python is easy to learn.
-Python is used for programming.
-I am learning Python.
